@@ -15,7 +15,7 @@
 
   const LIST = DATA.listings;
   const BY_ID = new Map(LIST.map((l) => [l.id, l]));
-  const PLACEHOLDER = 'assets/placeholder.svg';
+  const PLACEHOLDER = 'placeholder.svg';
   const LS_SET = 'vs_settings_v1';
   const LS_FAV = 'vs_favs_v1';
   const B_MIN = 3000, B_MAX = 20000, B_STEP = 500;
@@ -267,7 +267,7 @@
         </div>
         <div class="hero-visual">
           <div class="hero-photo">
-            <img src="assets/hero.jpg" alt="Уютный интерьер жилья в Суздале" fetchpriority="high">
+            <img src="hero.jpg" alt="Уютный интерьер жилья в Суздале" fetchpriority="high">
           </div>
           <div class="stamp-round" aria-hidden="true">
             <svg viewBox="0 0 120 120">

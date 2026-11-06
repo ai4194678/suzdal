@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Фото отсутствует">
+  <rect width="800" height="600" fill="#eef0e6"/>
+  <rect x="24" y="24" width="752" height="552" fill="none" stroke="#c8cdb9" stroke-width="2" stroke-dasharray="10 8" rx="18"/>
+  <g fill="none" stroke="#8B947D" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M290 330 400 240l110 90"/>
+    <path d="M320 308v122h160V308"/>
+    <path d="M382 430v-58h36v58"/>
+    <path d="M520 290v50M520 256v10"/>
+  </g>
+  <circle cx="520" cy="248" r="10" fill="none" stroke="#8B947D" stroke-width="6"/>
+  <text x="400" y="505" text-anchor="middle" font-family="Georgia, serif" font-size="30" fill="#8B947D" letter-spacing="2">ФОТО — В ОБЪЯВЛЕНИИ</text>
+</svg>
